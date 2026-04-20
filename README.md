@@ -1,7 +1,7 @@
 <h1>Hi, everyone. I’m Buronov Shokhrukh 👋</h1>
 
 <div>
-  <p><b>I am a frontend-developer</b></p>
+  <p><b>I am a data analyst/frontend developer/project manager/sales manager</b></p>
 </div>
 
 ___
