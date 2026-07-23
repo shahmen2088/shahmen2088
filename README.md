@@ -1,7 +1,7 @@
 <h1>Hi, everyone. I’m Buronov Shokhrukh 👋</h1>
 
 <div>
-  <p><b>I am a data analyst/frontend developer/project manager/sales manager</b></p>
+  <p><b>I am a data analyst/project manager</b></p>
 </div>
 
 ___
@@ -39,41 +39,6 @@ ___
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmen2088&theme=blue-green)
 <br/>
-
-### My projects are in pure javascript, css and html
-
-<h4>
-   <a href=https://github.com/shahmen2088/test-frontend>Movie</a>
-    - Online cinema.
-</h4> 
-
-<h4>
-   <a href=https://github.com/shahmen2088/pinkchicken-project.io>PinkChicken</a>
-    - The site offers a wide range of media planning services for your business or company.
-</h4> 
-                                                                                                                         
-### My projects are made using various libraries and frameworks:
-
-<h4>
-   <a href=https://github.com/shahmen2088/astone-project>Bookstore</a>
-    - News application with authentication.
-</h4> 
-<h4>
-   <a href=https://github.com/shahmen2088/lesta-project>Мир Кораблей</a>
-    - The project provides an opportunity to view all the ships from the game "World of Ships".
-</h4>
-<h4>
-   <a href=https://github.com/shahmen2088/picasso_project>Lists of posts</a>
-    - The project is a list of posts using virtualization.
-</h4> 
-<h4>
-   <a href=https://github.com/shahmen2088/frontend-project-44>Frontend-project-44 (Hexlet)</a>
-    - Asciinema.
-</h4> 
-<h4>
-   <a href=https://github.com/shahmen2088/react-first-project>To-do list</a>
-</h4> 
- 
 
                                                                                                                                 
 <div>
