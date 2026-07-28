@@ -1,50 +1,20 @@
-<h1>Hi, everyone. I’m Buronov Shokhrukh 👋</h1>
+# Shokhrukh Buronov
 
-<div>
-  <p><b>I am a data analyst/project manager</b></p>
-</div>
+**Data Analyst focused on reporting you can trust.**
 
-___
+I turn raw data into reliable reports, build practical data quality checks, and investigate anomalies that deserve attention. My project management background helps me connect analysis with clear requirements, business context, and delivery.
 
-### Languages and Tools:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Sequelize.js](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Selected work
 
+| Project | Focus | Tools |
+| --- | --- | --- |
+| [Expense Report](https://github.com/shahmen2088/expense-report) | Expense reporting pipeline with validation, currency conversion, reconciliation, and Excel output. Uses synthetic data. | Python, pandas, Excel |
+| [Sales Anomaly Detection](https://github.com/shahmen2088/retail-sales-anomaly-detection) | Time-series data quality analysis and anomaly detection using statistical and decomposition-based methods. Uses synthetic data. | Python, pandas, Excel |
 
-### Stats:                                                                                                                                                                                                                                        
-![image](https://www.codewars.com/users/shahmen2088/badges/small)
-[![LeetCode user jesyscyclist](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjesyscyclist&logo=leetcode&logoColor=yellow)](https://leetcode.com/shahmen2088/)
+## Toolkit
 
-![](https://github-readme-stats.vercel.app/api?username=shahmen2088&theme=blue-green)
-<br/>
+Python · pandas · Excel · Git
 
+## Current direction
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmen2088&theme=blue-green)
-<br/>
-
-                                                                                                                                
-<div>
-  <h3>🤝 Connect with me:</h3>
-  <h4>Telegram: <a href=https://t.me/khanBuronov>@khanBuronov</a></h4>                                                                                                           
-  <h4>E-Mail: <a href="mailto:shoxrux20888@mail.ru">shoxrux20888@mail.ru</a></h4>                                                                                                       
- </div>
-<!---
---->
+I am expanding my portfolio with SQL and BI projects. These areas are actively developing and are not yet represented in the selected work above.
